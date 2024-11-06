@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineering student*
 
 Here are some of the key projects I'm working on or have contributed to:
 
-- **[Project 1 Name]**: [Short description of the project, e.g., A Python-based web scraper to collect data from various websites.]
-- **[Project 2 Name]**: [Short description of the project, e.g., A JavaScript-based to-do list application that syncs across devices.]
-- **[Project 3 Name]**: [Short description of the project, e.g., A machine learning model to predict house prices based on historical data.]
+- ** song app using flutter and dart
+- ** bank transaction record
+
 
 ## Skills
 
