@@ -1,16 +1,16 @@
 # Hello, I'm Gaurav Kumar!
 
-Welcome to my GitHub profile! 👋 I'm a passionate [Your Profession, e.g., Software Developer, Data Scientist, etc.] and I'm excited to share my projects and contributions here.
+Welcome to my GitHub profile! 👋 I'm a passionate software enginn  and I'm excited to share my projects and contributions here.
 
 ## About Me
 
-I'm [Your Name], a [Brief description about your background, e.g., software developer, machine learning enthusiast, web developer]. I enjoy creating innovative solutions through code, and I'm always looking to learn and collaborate with others in the tech community.
+Welcome to my GitHub profile! I’m a passionate **Software Engineering student** currently pursuing **B.Tech in Computer Science and Engineering (CSE)**. I'm excited to learn, build, and share interesting software projects. I’m always eager to explore new technologies and solve challenging problems.
 
-- 🌱 Currently learning: [Technologies or frameworks you're currently learning, e.g., React, TensorFlow, etc.]
-- 💬 Ask me about: [Topics you're knowledgeable about or interested in discussing, e.g., Python, open-source projects, etc.]
-- 🌍 Location: [Where you're based, e.g., New York, USA]
-- 📫 How to reach me: [Your email, LinkedIn, or social media links]
 
+- 🌱 Currently learning: Data Structures and Algorithms, Machine Learning, Web Development, and Mobile App Development.
+- 💬 Ask me about: Full-stack web development, programming concepts, and tech-related problem solving.
+- 🌍 Location: Bangalore, India
+- 📫 How to reach me: gauravkr2835o@gmail.com
 ## My Projects
 
 Here are some of the key projects I'm working on or have contributed to:
